@@ -1,0 +1,98 @@
+.machine1{
+	position: relative;
+	margin-left: 1300px;
+}
+
+h1{
+	position: relative;
+	margin-left: 45%;
+	bottom: 170px;
+	font-size: px;
+	font-family: 30px;
+	margin-right: 700px;
+	border:3px blue solid;
+}
+
+.machine2{
+	position: relative;
+	bottom: 360px;
+	left: 95px;
+}
+
+.recherche_p{
+	position: relative;
+    bottom: 250px;
+    padding-right: 400px;
+    padding-left: 670px;
+    margin-right: 50px
+}
+
+#search-btn { width: 100%; text-align: center; 
+	padding-bottom: 20px;
+	font-size: 20px;
+	color: red;
+	padding-right: 60px;
+	padding-left: 60px;    
+}
+
+.video{
+	position: relative;
+left: 57px;
+bottom: 387px;
+padding-left: 962px;
+padding-right: -10px;
+right: -9px;
+}
+
+.disquedur{
+	position: relative;
+	left: 35%;
+	bottom: 30px;
+}
+
+.hautgauche{
+	position: relative;
+	font-size: 40px;
+	top: 200px;
+	left: 10px;
+	margin-right: 1050px;
+	border:3px blue solid;
+}
+
+.cartereseaux{
+	position: relative;
+	left: 50%;
+	bottom: 80px;
+}
+
+.cartemere{
+	position: relative;
+	bottom: 80px;
+}
+
+footer aside, section{
+	display: inline-block;
+
+}
+
+footer aside li{
+display: inline-block;
+margin-left: 10px;
+}
+footer section li{
+	display: inline-block;
+	margin-right: 10px;
+}
+footer section{
+	width: auto;
+}
+footer section ul{
+	margin-left: 800px;
+}
+nav{
+	position: relative;
+	left: 100px;
+}
+body{
+	background-color: #0174DF;
+}
